@@ -82,6 +82,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/futilityy/f/main/READ
             end,
         })
 
+local gamescriptbutton3 = Tab1.Button({
+      Text = "Fast Speed (Toggle With K)",
+      Callback = function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/futilityy/Fake/main/README.lua"))()    
+
+    })
+
 
 
 
