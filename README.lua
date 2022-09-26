@@ -2,7 +2,7 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local X = Material.Load({
-    Title = "D00000M Hub - Da hood",
+    Title = "D00mshacks private - Da hood",
     Style = 4,
     SizeX = 350,
     SizeY = 350,
@@ -17,7 +17,7 @@ local Tab1 = X.New({
 })
 
 local gamescriptbutton1 = Tab1.Button({
-    Text = "Exclusion Lock (OP)",
+    Text = "Codev Lock (OP)",
     Callback = function()
        loadstring(game:HttpGet("https://raw.githubusercontent.com/futilityy/ssssssssssssssssssssssssssssssssssssssssssssssss1222222222222222222121/main/README.lua"))()
     end,
